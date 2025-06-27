@@ -35,6 +35,5 @@
 ## 📜 Certificates
 ![정보처리기사](https://img.shields.io/badge/정보처리기사-Passed-blue?style=flat-square)
 ![SQLD](https://img.shields.io/badge/SQLD-Passed-blue?style=flat-square)
-![TOEIC](https://img.shields.io/badge/TOEIC-900+-orange?style=flat-square)
 
 ---
